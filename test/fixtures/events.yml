@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  name: MyString
+  description: MyText
+  whattimeisit: 2013-05-14 22:46:34
+
+two:
+  name: MyString
+  description: MyText
+  whattimeisit: 2013-05-14 22:46:34
